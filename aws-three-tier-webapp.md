@@ -1,5 +1,11 @@
 # Build a Three-Tier Web App
 
+This project use AWS Services - Lamda, DynamoDB,CloudFront,API Gateway, S3.
+
+The three tier architecture has a presentation tier using S3 and CloudFront, a logic tier powered by Lambda and API Gateway, and a data tier utilizing DynamoDB. The text provides a detailed walkthrough of connecting these services, from hosting website files to writing serverless code that retrieves user data.Addresses troubleshooting, specifically resolving CORS errors and managing CloudFront invalidations to ensure the frontend communicates correctly with the backend. Ultimately, serves as a practical solution for deploying a scalable, fully functional cloud solution.
+
+
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-threetier)
 
 **Author:** nimish bali
