@@ -2,8 +2,7 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-threetier)
 
-**Author:** nimishdevep@gmail.com  
-**Email:** nimishdevep@gmail.com
+**Author:** nimish bali
 
 ---
 
