@@ -7,3 +7,5 @@ The three tier architecture has a presentation tier using S3 and CloudFront, a l
 High Level View
 
 <a href=""><img src="https://learn.nextwork.org/projects/static/aws-compute-threetier/architecture-complete.png" height="60px"></img></a>
+
+Checkout the aws-three-tier-webapp.md for full project documentation and implementation details.
