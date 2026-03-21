@@ -14,8 +14,6 @@ The three tier architecture has a presentation tier using S3 and CloudFront, a l
 
 ## Build a Three-Tier Web App
 
-![Image](http://learn.nextwork.org/fulfilled_orange_serene_sea_otter/uploads/aws-compute-threetier_2b3c4d5e)
-
 ---
 
 ## Introducing Today's Project!
